@@ -62,3 +62,4 @@ For more information on using the Angular CLI, including detailed command refere
 "# frontdernierversion" 
 "# exportPFE" 
 "# front_d-ploiement" 
+"# front_soutenance" 
